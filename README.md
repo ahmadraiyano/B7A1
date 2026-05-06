@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment demonstrates fundamental TypeScript concepts including data typing, interfaces, class inheritance, type checking, and data structure manipulation. **Total: 60 Marks** (50 Problem Solving + 10 Blog Writing).
+This assignment demonstrates fundamental TypeScript concepts including data typing, interfaces, class inheritance, type checking, and data structure manipulation.
 
 ## Project Structure
 
